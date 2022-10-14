@@ -5,10 +5,10 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 <p align="center">
-<a href="https://www.linkedin.com/in/fakhrusy-al-asady/">
+<a href="https://www.linkedin.com/in/fakhrusy-al-asady/" target="_blank">
   <img height="50" src="https://img.icons8.com/doodle/344/linkedin-circled.png"/>
 </a>
-<a href="https://portome-fahru.vercel.app/">
+<a href="https://portome-fahru.vercel.app/" target="_blank">
   <img height="50" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/344/external-portfolio-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png"/>
 </a>
 </p>
