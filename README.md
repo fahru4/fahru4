@@ -30,9 +30,6 @@ fields_of_interests:
     "Back End Development",
     "Android"
   ]
-  
-currently_learning: ["Laravel, PostgreSQL, Flutter and React Native"]
-hobbies: ["Music", "Art", "Anime"]
 ```
   
 ---  
