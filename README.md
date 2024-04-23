@@ -23,7 +23,7 @@
 ```yaml
 name: Fakhrusy Al Asady
 located_in: South Jakarta, DKI Jakarta
-current_job: Programmer 
+current_job: Full Stack Developer 
 fields_of_interests:
   [
     "Web Development",
